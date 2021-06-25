@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="138ef3a6-aa2b-4eff-bc2d-4e22550b8ad8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="342" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="JupyterTrust" id="d8cfa660-00df-4c64-8b07-87576ca40a0a" />
+  <component name="ProjectId" id="1Qmj7kJPj5NC1rc7pZVOjpCCsMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobiusr/util" />
+      <recent name="$PROJECT_DIR$/conf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/conf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sklearnPredict">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TRNG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobiusr/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobiusr/main/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PostAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRNG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobiusr/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobiusr/util/PostAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadPDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRNG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobiusr/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobiusr/util/ReadPDF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearnPredict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TRNG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobiusr/ml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobiusr/ml/sklearnPredict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.PostAnalysis" />
+      <item itemvalue="Python.ReadPDF" />
+      <item itemvalue="Python.sklearnPredict" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sklearnPredict" />
+        <item itemvalue="Python.PostAnalysis" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.ReadPDF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138ef3a6-aa2b-4eff-bc2d-4e22550b8ad8" name="Changes" comment="" />
+      <created>1568382500545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568382500545</updated>
+      <workItem from="1568382505088" duration="11389000" />
+      <workItem from="1568557322363" duration="25000" />
+      <workItem from="1568557424264" duration="14589000" />
+      <workItem from="1569003566191" duration="6300000" />
+      <workItem from="1569083815266" duration="1767000" />
+      <workItem from="1569174975001" duration="6589000" />
+      <workItem from="1569427050558" duration="2258000" />
+      <workItem from="1569434336505" duration="5112000" />
+      <workItem from="1569598599387" duration="9267000" />
+      <workItem from="1569690458986" duration="61000" />
+      <workItem from="1569704484669" duration="17438000" />
+      <workItem from="1572291694819" duration="3403000" />
+      <workItem from="1572817346924" duration="36000" />
+      <workItem from="1572817410013" duration="4568000" />
+      <workItem from="1573332637804" duration="7217000" />
+      <workItem from="1573678796070" duration="320000" />
+      <workItem from="1573681188236" duration="3828000" />
+      <workItem from="1573685957253" duration="629000" />
+      <workItem from="1573823440133" duration="1758000" />
+      <workItem from="1573857550720" duration="2328000" />
+      <workItem from="1573946062794" duration="2683000" />
+      <workItem from="1574031587779" duration="3643000" />
+      <workItem from="1574293462289" duration="337000" />
+      <workItem from="1574300868525" duration="53000" />
+      <workItem from="1574300938638" duration="4712000" />
+      <workItem from="1574513093120" duration="12431000" />
+      <workItem from="1577316615004" duration="631000" />
+      <workItem from="1577317734255" duration="130000" />
+      <workItem from="1577317877600" duration="27000" />
+      <workItem from="1577317937098" duration="1798000" />
+      <workItem from="1577919496340" duration="3396000" />
+      <workItem from="1579388151554" duration="21000" />
+      <workItem from="1579388190206" duration="1937000" />
+      <workItem from="1580945158652" duration="617000" />
+      <workItem from="1581460186591" duration="775000" />
+      <workItem from="1583011987895" duration="180000" />
+      <workItem from="1583012198080" duration="1228000" />
+      <workItem from="1583871914714" duration="4232000" />
+      <workItem from="1584702578214" duration="608000" />
+      <workItem from="1584995525438" duration="1233000" />
+      <workItem from="1585235863895" duration="599000" />
+      <workItem from="1586464730681" duration="24000" />
+      <workItem from="1586464790901" duration="23000" />
+      <workItem from="1590500533202" duration="655000" />
+      <workItem from="1591048524599" duration="1999000" />
+      <workItem from="1591100590043" duration="2747000" />
+      <workItem from="1591103351616" duration="1752000" />
+      <workItem from="1591287231660" duration="1246000" />
+      <workItem from="1592085289216" duration="3315000" />
+      <workItem from="1592422443057" duration="21986000" />
+      <workItem from="1592998849171" duration="919000" />
+      <workItem from="1592999797798" duration="47017000" />
+      <workItem from="1593700287437" duration="10676000" />
+      <workItem from="1593829632561" duration="14168000" />
+      <workItem from="1594421215276" duration="599000" />
+      <workItem from="1594423775387" duration="30359000" />
+      <workItem from="1594768606277" duration="40737000" />
+      <workItem from="1595538490247" duration="25767000" />
+      <workItem from="1596201091436" duration="9473000" />
+      <workItem from="1596980364735" duration="5230000" />
+      <workItem from="1597580214388" duration="34942000" />
+      <workItem from="1598624994067" duration="16702000" />
+      <workItem from="1599167406807" duration="1354000" />
+      <workItem from="1599172108841" duration="2310000" />
+      <workItem from="1599218891654" duration="12276000" />
+      <workItem from="1599576991763" duration="3840000" />
+      <workItem from="1599651981715" duration="1448000" />
+      <workItem from="1599653638093" duration="3856000" />
+      <workItem from="1599670841962" duration="5411000" />
+      <workItem from="1600349905577" duration="146000" />
+      <workItem from="1600350078873" duration="1797000" />
+      <workItem from="1603542100811" duration="928000" />
+      <workItem from="1603555369685" duration="31000" />
+      <workItem from="1613262520905" duration="1342000" />
+      <workItem from="1612295365586" duration="130000" />
+      <workItem from="1614106269246" duration="649000" />
+      <workItem from="1614254069843" duration="10000" />
+      <workItem from="1614254118554" duration="10000" />
+      <workItem from="1614630537093" duration="2286000" />
+      <workItem from="1614692660792" duration="7980000" />
+      <workItem from="1615806514556" duration="1204000" />
+      <workItem from="1616023873018" duration="19000" />
+      <workItem from="1616023908601" duration="922000" />
+      <workItem from="1617056007190" duration="13000" />
+      <workItem from="1617056035567" duration="4030000" />
+      <workItem from="1622826748431" duration="27000" />
+      <workItem from="1622835548655" duration="982000" />
+      <workItem from="1622837366162" duration="3917000" />
+      <workItem from="1622996142044" duration="1808000" />
+      <workItem from="1623263136104" duration="1293000" />
+      <workItem from="1623265351717" duration="614000" />
+      <workItem from="1623331898220" duration="1686000" />
+      <workItem from="1623336951249" duration="3893000" />
+      <workItem from="1623581299134" duration="15710000" />
+      <workItem from="1623932657843" duration="5337000" />
+      <workItem from="1624280121515" duration="9749000" />
+      <workItem from="1624634203229" duration="336000" />
+      <workItem from="1624634575041" duration="43000" />
+      <workItem from="1624634626170" duration="58000" />
+    </task>
+    <task id="LOCAL-00001" summary="updating dev">
+      <created>1568382611353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568382611353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating dev">
+      <created>1591098730588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591098730588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating dev again">
+      <created>1591101587148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591101587148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="completly changed app">
+      <created>1593785154605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593785154605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="completly changed app">
+      <created>1593785235029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593785235030</updated>
+    </task>
+    <task id="LOCAL-00006" summary="completly changed app">
+      <created>1624633799570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624633799570</updated>
+    </task>
+    <task id="LOCAL-00007" summary="completly changed app">
+      <created>1624633814002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624633814002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/mobiusr/main/CPT" />
+    </ignored-roots>
+    <MESSAGE value="updating dev" />
+    <MESSAGE value="updating dev again" />
+    <MESSAGE value="completly changed app" />
+    <option name="LAST_COMMIT_MESSAGE" value="completly changed app" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UTests/testDotDict.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UTests/testDotDict.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/ReadPDF.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Dill.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Dill.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Dill.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Dill.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Dill.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/main/Main.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/main/Main.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/ml/five.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/ml/five.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Lstm.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/testKeras.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/testKeras.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/main/Main.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/PostAnalysis.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/PostAnalysis-n1.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/ml/five.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/ml/five.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/main/Main.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/main/Main.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/Trng.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/util/PostAnalysis.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mobiusr/ml/sklearnPredict.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TRNG$ReadPDF.coverage" NAME="ReadPDF Coverage Results" MODIFIED="1623762541794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$Dill.coverage" NAME="Dill Coverage Results" MODIFIED="1593300043448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$test.coverage" NAME="test Coverage Results" MODIFIED="1598358191615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/ml" />
+    <SUITE FILE_PATH="coverage/TRNG$PostAnalysis_n1.coverage" NAME="PostAnalysis-n1 Coverage Results" MODIFIED="1617111614323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$PostAnalysis.coverage" NAME="PostAnalysis Coverage Results" MODIFIED="1624457296003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$pytest_in_testMSGpack_py.coverage" NAME="pytest in testMSGpack.py Coverage Results" MODIFIED="1583012301729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UTests" />
+    <SUITE FILE_PATH="coverage/TRNG$Lstm.coverage" NAME="Lstm Coverage Results" MODIFIED="1595868258783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$Main.coverage" NAME="Main Coverage Results" MODIFIED="1623932691492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/main" />
+    <SUITE FILE_PATH="coverage/TRNG$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1593627059124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/main" />
+    <SUITE FILE_PATH="coverage/TRNG$testDotDict.coverage" NAME="Main Coverage Results" MODIFIED="1591103444426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/main" />
+    <SUITE FILE_PATH="coverage/TRNG$testKeras.coverage" NAME="testKeras Coverage Results" MODIFIED="1595869727903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/util" />
+    <SUITE FILE_PATH="coverage/TRNG$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1593625999629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/main" />
+    <SUITE FILE_PATH="coverage/TRNG$pytest_for_testMSGpack_TestMSGpack.coverage" NAME="pytest for testMSGpack.TestMSGpack Coverage Results" MODIFIED="1578962405796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UTests" />
+    <SUITE FILE_PATH="coverage/TRNG$example.coverage" NAME="example Coverage Results" MODIFIED="1592918628617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/main" />
+    <SUITE FILE_PATH="coverage/TRNG$sklearnPredict.coverage" NAME="sklearnPredict Coverage Results" MODIFIED="1624543455529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mobiusr/ml" />
+  </component>
+</project>
